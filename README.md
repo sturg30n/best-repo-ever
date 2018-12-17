@@ -1,3 +1,3 @@
 # best-repo-ever
 
-SOME MAGIC SAUCE
+SOME MAGIC SAUZE
